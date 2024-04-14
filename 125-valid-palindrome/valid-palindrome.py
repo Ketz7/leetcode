@@ -3,6 +3,7 @@
 # Two ways to think here, the first part is how we can get the alphanumerical value out of the string.
 # So either use regex or use ascii characters, there's also the isalpha() function in python that returns true or false which is inbuilt
 # But feels like cheating, so I stay away from it, at least for the interview question.
+# The second part is to use two pointers one at the start and one at the end, compare them till they meet each other and you'll have your answer.
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
