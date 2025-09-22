@@ -9,6 +9,7 @@ Collection of LeetCode questions for the coding interview ! - Created using [Lee
 | [0054-spiral-matrix](https://github.com/Ketz7/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Ketz7/leetcode/tree/master/0200-number-of-islands) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ketz7/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [2058-concatenation-of-array](https://github.com/Ketz7/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions for the coding interview ! - Created using [Lee
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ketz7/leetcode/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/Ketz7/leetcode/tree/master/2058-concatenation-of-array) |
 ## Depth-First Search
 |  |
 | ------- |
