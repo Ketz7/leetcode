@@ -52,4 +52,9 @@ Collection of LeetCode questions for the coding interview ! - Created using [Lee
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ketz7/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Ketz7/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ketz7/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
