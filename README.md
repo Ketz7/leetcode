@@ -44,4 +44,12 @@ Collection of LeetCode questions for the coding interview ! - Created using [Lee
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ketz7/leetcode/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ketz7/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ketz7/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
